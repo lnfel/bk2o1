@@ -33,6 +33,14 @@ body {
 }
 
 @font-face {
+	font-family: 'Delius';
+	font-style: normal;
+	font-weight: 300;
+	src: url('../Fonts/Delius-Regular.ttf'),
+	url('fonts/font.eot'); /* IE9 */
+}
+
+@font-face {
 	font-family: 'FontAwesome';
 	src: url('../Fonts/FontAwesome.otf'),
 	url('fonts/font.eot'); /* IE9 */
